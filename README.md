@@ -8,8 +8,8 @@ This example contains instructions how users can initiate Outbound Calls.
 
 
 ## Installation
-- `git clone https://github.com/EnableX/voice-api-outbound-ivr.git`
-- `cd voice-api-outbound-ivr`
+- `git clone https://github.com/EnableX/voice-outbound-text-to-speech.git`
+- `cd voice-outbound-text-to-speech`
 - `npm install`
 
 
