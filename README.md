@@ -29,7 +29,6 @@ For Windows:
   - `ENABLEX_APP_ID` , `ENABLEX_APP_KEY` , `SERVICE_PORT`.
   - Their explanation is given in Linux/Mac section (Upper section).
 
-
 ## Webhook - EnableX will send HTTP requests to your application (`/event`) after certain events occur.
 
 For Mac and Linux, open a terminal window and type the following commands. Note - Replace all the characters after the = with values from your EnableX account:
@@ -41,18 +40,6 @@ For Mac and Linux, open a terminal window and type the following commands. Note 
     - `export PUBLIC_WEBHOOK_URL=`
 - Set to run the service on http / https (false / true)
   - `export LISTEN_SSL=`
-- Set the preferred voice for playing the text to speech prompt , Female or Male. 
-    -  VOICE=Female
-- Set the preferred language for playing the text to speech prompt. 
-    -  LANGUAGE=en-US
-- Set the text to ge played as prompt
-    -  TEXT=Hi Good Morning . welcome to text to speech demo.
-- Set the prompt reference that will be returned to identify the prompt that has been played in the response . 
-    -  PROMPT_REF=text_to_speech_prompt
-- Set the Called Id - the virtual number that has been bought and attached to the project.
-    -  FROM=+1XXXXXXXXXX
-- Set the destination number to be called.
-    -  TO=+1XXXXXXXXXX
 
 For Windows
 
