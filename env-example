@@ -22,17 +22,17 @@ PUBLIC_WEBHOOK_URL=
 
   # run the server on http or https
 LISTEN_SSL=
-#Voice the text to speech needs to be played Female / Male
+#Set the preferred voice for playing the text to speech prompt , Female or Male. 
 VOICE=
-#Text to be played as prompt
+#Set the text to ge played as prompt
 TEXT=
-#Language to be used to play the prompt
+#Set the preferred language for playing the text to speech prompt. 
 LANGUAGE=
-#prompt reference to identify the prompt
+#Set the prompt reference that will be returned to identify the prompt that has been played in the response .
 PROMPT_REF=
-#Caller ID
+#Set the Called Id - the virtual number that has been bought and attached to the project.
 FROM=
-#Called Number
+#Set the destination number to be called.
 TO=
 
 # use the certificate .key [self signed or registered]
