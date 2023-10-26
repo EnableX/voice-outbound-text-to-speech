@@ -1,4 +1,4 @@
-# **Basic Client Examples to demonstrate Outbound Calls with text to speech prompt using Enablex Voice APIs. **
+# Outbound Calls with Text-to-Speech Prompt: Using EnableX Programmable Voice APIs
 This example contains instructions how users can initiate Outbound Calls and play the prompt with required voice and language.
 
 
